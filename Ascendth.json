@@ -1,4 +1,5 @@
 {
   "targetUrl": "https://w.mticic.com",
-  "backgroundColor": "#FF5733"
+  "topBarColor": "#FF5733",
+  "bottomBarColor": "#3333FF"
 }
