@@ -1,4 +1,4 @@
 {
-  "targetUrl": "https://h5.coinssp.cc",  // 替换为实际要加载的 URL
-  "backgroundColor": "#FF5733"  // 设置背景颜色，例如橙红色
+  "targetUrl": "https://www.example.com",
+  "backgroundColor": "#FF5733"
 }
